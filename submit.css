@@ -1,0 +1,19 @@
+.chat {
+    display: flex;
+    align-items: center;
+}
+
+.torakki {
+    width: 500px;
+    height: 500px;
+}
+
+.coment {
+    background: yellow;
+    padding: 10px;
+    border-radius: 30px;
+    height: fit-content;
+    width: fit-content;
+    font-size: 28px;
+    font-family: monospace;
+}
